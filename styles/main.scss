@@ -1,0 +1,31 @@
+// $profilePictureSize: 80px;
+
+// #phc-account-badge {
+//   width: $profilePictureSize;
+//   aspect-ratio: 1;
+//   overflow: hidden;
+//   border-radius: 50%;
+// }
+// #phc-accountIcon {
+//   font-size: $profilePictureSize;
+// }
+// #phc-profilePicture {
+//   background-size: cover;
+//   width: 100%;
+//   height: 100%;
+// }
+
+.phc-btn {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: .5rem 2rem;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 0;
+  // border: 1px solid #7b2d26;
+  border: 1px solid white;
+  color: white;
+  background-color: #7b2d26;
+  text-transform: uppercase;
+  font-weight: 200;
+
+}
